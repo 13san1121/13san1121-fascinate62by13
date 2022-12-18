@@ -1,0 +1,3 @@
+/function fascinate_62:restartで動画のように始まります
+
+ご不明な点がございましたらTwitterのDMにご連絡ください。
